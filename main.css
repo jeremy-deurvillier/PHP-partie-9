@@ -1,0 +1,26 @@
+table{
+    border-collapse: collapse;
+    margin: 10px;
+}
+
+td{
+    width: 100px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.daysWeek{
+    text-align: center;
+    color: white;
+    background: gray;
+}
+
+.prevMonth,
+.day{
+    height: 100px;
+}
+
+.prevMonth,
+.nextMonth{
+    background: lightgray;
+}
